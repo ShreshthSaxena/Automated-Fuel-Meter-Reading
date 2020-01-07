@@ -1,5 +1,5 @@
 # Automated-Fuel-Meter-Reading
-Reading fuel meters without training a ML/DL model
+Reading fuel meters using Classic Computer Vision techniques
 
 ![Demo Image](r1.png)
 
